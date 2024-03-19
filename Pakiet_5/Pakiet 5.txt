@@ -1,0 +1,37 @@
+
+Zadanie 1
+Wypracować 5 funkcji predefiniowanych
+------------------------------------------------------------------------------------------------------
+Zadanie 2 (a)
+Wczytać funkcję (z b) i ją wywołać
+------------------------------------------------------------------------------------------------------
+Zadanie 3
+Funkcje ze zmiennymi funkcyjnymi i globalnymi
+------------------------------------------------------------------------------------------------------
+Zadanie 4
+Przekazanie funkcji jako argument
+------------------------------------------------------------------------------------------------------
+Zadanie 5
+Napisać funkcję, która przyjmuje listę liczb i zwraca listę zawierającą tylko te liczby, które są parzyste.
+Użyj wyrażenia lambda do stworzenia funkcji, która oblicza pole prostokąta na podstawie długości jego boków.
+------------------------------------------------------------------------------------------------------
+Zadanie 6
+Korzystając z funkcji filter(), wyodrębnić z danej listy słów te, które zaczynają się na literę 'a'.
+Użyj funkcji map() do przekształcenia listy liczb w listę ich kwadratów.
+------------------------------------------------------------------------------------------------------
+Zadanie 7
+Napisać dwie funkcje: jedna, która podnosi liczbę do kwadratu, a druga, która dodaje do liczby 5.
+Stwórz funkcję, która łączy funkcje, aby zastosować obie funkcje do listy liczb.
+Następnie aplikuj wszystkie funkcje do tej wartości.
+------------------------------------------------------------------------------------------------------
+Zadanie 8
+Stwórz listę zawierającą pierwsze 10 liczb kwadratowych (1, 4, 9, ...) używając list comprehensions.
+Użyj list comprehensions, aby z danej listy słów stworzyć listę długości tych słów.
+------------------------------------------------------------------------------------------------------
+Zadanie 9
+Użyj funkcji reduce() z modułu functools, aby znaleźć największą liczbę w liście.
+Napisać funkcję używając reduce(), która oblicza średnią z listy liczb.
+------------------------------------------------------------------------------------------------------
+Zadanie 10
+Stwórz generator, który produkuje nieskończony ciąg liczb Fibonacciego.
+Napisać generator, który czyta duży plik tekstowy linią po linii, unikając wczytywania całego pliku do pamięci.

@@ -1,0 +1,41 @@
+Pakiet 1
+
+1) Napisz funkcję apply_twice, która przyjmuje inną funkcję i wartość, a następnie stosuje tę funkcję dwa razy do wartości.
+
+2) Zaimplementuj funkcję make_multiplier, która zwraca inną funkcję, służącą do mnożenia liczby przez ustalony mnożnik.
+
+3) Napisz funkcję filter_even_numbers, która przyjmuje listę liczb i zwraca nową listę, zawierającą tylko parzyste liczby.
+
+4) Napisz dekorator timeit, który mierzy i wypisuje czas wykonania dekorowanej funkcji.
+
+5) Użyj wyrażenia lambda do stworzenia anonimowej funkcji, która podnosi liczbę do kwadratu, a następnie użyj jej do przekształcenia listy liczb.
+
+6) Napisz kod, który używa funkcji map do przekształcenia listy liczb w listę ich kwadratów.
+
+7) Użyj funkcji filter do wybrania słów z listy, które mają długość większą niż 5 liter.
+
+8) Znajdź sumę wszystkich liczb w liście, używając funkcji reduce z modułu functools.
+
+9) Stwórz listę zawierającą pierwsze 10 potęg liczby 2, używając listy składanej.
+
+10) Użyj wyrażenia generatorowego do stworzenia generatora, który produkuje nieskończoną sekwencję liczb parzystych.
+
+11) Napisz funkcję, która przyjmuje listę stringów i sortuje je w porządku rosnącym według długości, używając funkcji anonimowej.
+
+12) Użyj functools.partial do stworzenia nowej funkcji, która mnoży dowolną liczbę przez 3.
+
+13) Napisz funkcję rekurencyjną calculate_factorial, która oblicza silnię podanej liczby.
+
+14) Zdefiniuj funkcję czystą multiply, która przyjmuje dwie liczby i zwraca ich iloczyn, nie wykorzystując żadnych zmiennych globalnych ani efektów ubocznych.
+
+15) Zaimplementuj currying dla funkcji add, która przyjmuje dwa argumenty, dzieląc ją na dwie funkcje, z których każda przyjmuje jeden argument.
+
+16) Napisz funkcję compose, która przyjmuje dwie funkcje jako argumenty i zwraca nową funkcję, będącą ich kompozycją.
+
+17) Użyj funkcji functools.partial do stworzenia funkcji, która zawsze dodaje 5 do swojego argumentu.
+
+18) Przykład użycia leniwego obliczania w Pythonie, na przykładzie generatorów.
+
+19) Pokaż przykład funkcji, która operuje na niemutowalnych strukturach danych, takich jak krotki (tuple).
+
+20) Napisz funkcję, która używa dopasowania wzorców do analizy i reakcji na różne struktury danych (np. listy, krotki).

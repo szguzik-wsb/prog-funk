@@ -1,0 +1,41 @@
+1) Napisz funkcję double_list_elements, która przyjmuje listę liczb i zwraca nową listę, w której każdy element jest podwójny w stosunku do odpowiadającego elementu w pierwotnej liście.
+
+2) Zaimplementuj funkcję filter_long_words, która przyjmuje listę stringów i zwraca listę zawierającą tylko te stringi, których długość jest większa niż średnia długość wszystkich stringów w liście.
+
+3) Napisz funkcję recursive_sum, która przyjmuje listę liczb zagnieżdżonych i oblicza sumę wszystkich liczb, uwzględniając zagnieżdżone listy.
+
+4) Zdefiniuj funkcję remove_duplicates, która usuwa zduplikowane elementy z listy, zachowując kolejność wystąpienia pierwszego wystąpienia każdego elementu.
+
+5) Napisz funkcję generate_fibonacci, która zwraca generator ciągu liczb Fibonacciego.
+
+6) Zaimplementuj funkcję map_nested, która stosuje funkcję do każdego elementu zagnieżdżonej listy.
+
+7) Napisz funkcję flatten_list, która spłaszcza zagnieżdżone listy do pojedynczej listy.
+
+8) Zdefiniuj funkcję partition_list, która dzieli listę na dwie części: jedną zawierającą elementy spełniające warunek, a drugą zawierającą pozostałe elementy.
+
+9) Napisz funkcję zip_with_index, która łączy elementy listy z ich indeksami.
+
+10) Zaimplementuj funkcję cumulative_sum, która oblicza sumę skumulowaną listy, tj. sumę elementów do każdego indeksu.
+
+11) Napisz funkcję find_max_min_diff, która znajduje różnicę między maksymalną a minimalną wartością w liście.
+
+12) Zdefiniuj funkcję rotate_list, która obraca listę o zadaną liczbę kroków w prawo.
+
+13) Napisz funkcję split_list, która dzieli listę na podlisty o zadanej długości.
+
+14) Zaimplementuj funkcję count_unique_elements, która zlicza unikalne elementy w liście.
+
+15) Napisz funkcję custom_sort, która sortuje listę według zadanej funkcji klucza.
+
+16) Zdefiniuj funkcję remove_whitespace, która usuwa białe znaki z każdego elementu listy stringów.
+
+17) Napisz funkcję capitalize_all_words, która zamienia pierwszą literę każdego słowa w stringu na wielką literę.
+
+18) Zaimplementuj funkcję transpose_matrix, która transponuje macierz (zamienia wiersze na kolumny i odwrotnie).
+
+19) Napisz funkcję check_anagrams, która sprawdza, czy dwa podane stringi są anagramami.
+
+20) Zdefiniuj funkcję sum_of_squares_of_odds, która oblicza sumę kwadratów liczb nieparzystych z listy.
+
+

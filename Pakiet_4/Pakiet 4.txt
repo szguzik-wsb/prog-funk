@@ -1,0 +1,10 @@
+1) Napisz funkcję, która przyjmuje listę liczb całkowitych i zwraca sumę wszystkich parzystych liczb w tej liście.
+2) Napisz funkcję, która przyjmuje string i zwraca nowy string, w którym wszystkie wielkie litery są zamienione na małe, a małe na wielkie.
+3) Napisz funkcję, która przyjmuje słownik i filtruje go, pozostawiając tylko te elementy, których wartości są liczbami parzystymi.
+4) Napisz funkcję, która przyjmuje exponent i zwraca funkcję, która podnosi podaną liczbę do potęgi określonej przez ten exponent.
+5) Napisz funkcję, która dzieli listę na części o określonej maksymalnej długości.
+6) Napisz funkcję, która przyjmuje listę i funkcję, a następnie zwraca nową listę, gdzie każdy element jest wynikiem zastosowania funkcji do dotychczasowych elementów.
+7) Napisz funkcję, która łączy dowolną liczbę słowników w jeden słownik, gdzie wartości dla powtarzających się kluczy są sumowane.
+8) Napisz funkcję, która zwraca najczęściej występujący element w liście. W przypadku remisu zwróć jeden z nich.
+9) Napisz funkcję, która przyjmuje listę krotek i zwraca listę, w której każdy element jest wynikiem zastosowania funkcji do elementów krotek.
+10) Napisz funkcję, która generuje wszystkie permutacje elementów listy.
